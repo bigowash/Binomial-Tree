@@ -18,15 +18,15 @@ Following an input of:
 
 The program should store the following tree in `ft1` <br> 
 
-![Simple tree](media/simple_tree.png)
+<!-- ![Simple tree](media/simple_tree.png) -->
 
-<!-- <div style="text-align:center"><img src="./media/simple_tree.png" /></div> -->
+<div style="text-align:center"><img src="./media/simple_tree.png" /></div>
 
 The second part of the assignment was to simplify the binomial tree. This meant that if a node's two branches were identical, the node should become either branch. 
 
-<!-- ![Simple tree](media/simplification.png) -->
+![Simple tree](media/simplification.png)
 
-<div style="text-align:center"><img src="./media/simplification.png" /></div>
+<!-- <div style="text-align:center"><img src="./media/simplification.png" /></div> -->
 
 -------------------------
 
