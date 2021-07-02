@@ -24,9 +24,9 @@ The program should store the following tree in `ft1` <br>
 
 The second part of the assignment was to simplify the binomial tree. This meant that if a node's two branches were identical, the node should become either branch. 
 
-<!-- ![Simple tree](media/simplification.PNG) --> -->
+![Simple tree](media/simplification.PNG)
 
-<div style="text-align:center"><img src="./media/simplification.PNG" /></div>
+<!-- <div style="text-align:center"><img src="./media/simplification.PNG" /></div> -->
 
 -------------------------
 
